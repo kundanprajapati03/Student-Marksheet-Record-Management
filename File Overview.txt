@@ -1,0 +1,127 @@
+
+
+<-----------------------------Welcome in marksheet Generated Program------------------------------>
+
+1.  ADD STUDENT MARKSHEET
+2.  VIEW STUDENT MARKSHEET
+3.  SEARCH STUDENT MARKSHEET
+4.  DELETE STUDENT MARKSHEET
+5.  EXIT
+Enter Your Choise:-1
+
+
+<-----------------------------Welcome in marksheet Generated Program------------------------------>
+
+
+               !!If You want to Generate Your Marksheet Fill Some basic Information!!
+
+
+<--------Enter Your Basic Details---------->
+
+Enter your Roll no:-            1
+Enter your name:-               Kundan Kumar
+Enter your Father name:-        Virender Prajapati
+Enter your Date of Birth:-      24 Sep 2004
+Enter your Course Name:-        BCA
+Enter your Sem/Part:-           2
+
+
+<--------Enter Your Subject Marks---------->
+
+Enter C programming Marks:       99
+Enter LOC Marks:                 89
+Enter MFCS Marks:                97
+Enter SSAD_marks:                98
+Enter Software Lab Marks:        96
+
+
+YOUR MARKSHEET STORE SUCESSFULLY....................!!
+THANK YOU....................!!
+
+
+
+Enter Any key for Generate Marksheet......
+
+
+<------------------------Welcome in marksheet Generated Program------------------------->
+
+
+
+                                       STUDENT MARKSHEET
+|-----------------------------------------------------------------------------------------|
+|                            MAHARSHI DAYANAND UNIVERSITY ROHTAK                          |
+|-----------------------------------------------------------------------------------------|
+|                                     STUDENTS DETAILS                                    |
+|-----------------------------------------------------------------------------------------|
+|        Name: Kundan Kumar              Father Name: Virender Prajapati                  |
+|        Roll No:  1                     Date of Birth: 24 Sep 2004                       |
+|        Course Name: BCA                Semester: 2                                      |
+|-----------------------------------------------------------------------------------------|
+|       SUBJECTS                        MAX MARKS       MIN MARKS       THEORY MARKS      |
+|-----------------------------------------------------------------------------------------|
+|       C PROGRAMMING(106)                100              33               99            |
+|       LOC 2(107)                        100              33               89            |
+|       MFCS(108)                         100              33               97            |
+|       SSAD(109)                         100              33               98            |
+|       SOFTWARE LAB(110)                 100              33               96            |
+|-----------------------------------------------------------------------------------------|
+|                                         500    |    GRAND TOTAL           479           |
+|-----------------------------------------------------------------------------------------|
+|       PRESENTAGE : 95.00%                                                               |
+|       RESULT : PASS WITH FIRST DIVISION                                                 |
+|       GRADE  : A+                                                                       |
+|-----------------------------------------------------------------------------------------|
+|                   ..........ALL THE BEST FOR YOU BRIGHT FUTURE..........                |
+|-----------------------------------------------------------------------------------------|
+
+
+Enter Any key for continue....
+
+
+<-----------------------------WELCOME IN MARKSHEET GENERATED PROGRAM------------------------------>
+
+1.  ADD STUDENT MARKSHEET
+2.  VIEW STUDENT MARKSHEET
+3.  SEARCH STUDENT MARKSHEET
+4.  DELETE STUDENT MARKSHEET
+5.  EXIT
+Enter Your Choise:- 2
+
+
+
+<----------------All STUDENS MARKSHEET REPORT HERE---------------->
+
+
+Roll no:              1
+Name:                 Kundan Kumar
+Father Name:          Virender Prajapati
+Date Of Birth:        24 Sep 2004
+Course Name:          BCA
+Semester:             2
+C PROGRAMMING(106):   99
+LOC 2(107):           89
+MFCS(108):            98
+SSAD(109):            79
+SOFTWARE LAB(110):    97
+TOTAL:                462
+PRESENTAGE:           92.00
+_________________________________________
+
+Roll no:              2
+Name:                 Vijay
+Father Name:          Narander Modi
+Date Of Birth:        1/2/23
+Course Name:          BCA
+Semester:             2
+C PROGRAMMING(106):   88
+LOC 2(107):           98
+MFCS(108):            78
+SSAD(109):            67
+SOFTWARE LAB(110):    56
+TOTAL:                387
+PRESENTAGE:           77.00
+_________________________________________
+
+
+
+Enter Any key for continue....
